@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-23",
+  "tithi": "शुक्ल त्रयोदशी",
+  "nakshatra": "रोहिणी",
+  "mantra": "ॐ जय महालसा महालक्ष्मी नमः",
+  "mantraAudio": "/assets/audio/mantra1.mp3",
+  "images": [
+    { "src": "/assets/images/mahalasa1.jpg", "title": "Mahalasa - Morning Darshan" },
+    { "src": "/assets/images/mahalasa2.jpg", "title": "Mahalasa - Temple Frame" },
+    { "src": "/assets/images/mahalasa3.jpg", "title": "Mahalasa - Aarti Evening" }
+  ]
+}
