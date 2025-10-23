@@ -3,7 +3,7 @@
   "tithi": "शुक्ल त्रयोदशी",
   "nakshatra": "रोहिणी",
   "mantra": "ॐ जय महालसा महालक्ष्मी नमः",
-  "mantraAudio": "/assets/audio/mantra1.mp3",
+  "mantraAudio": "/assets/audio/stavanashtakam.mp3",
   "images": [
     { "src": "/assets/images/mahalasa1.jpg", "title": "Mahalasa - Morning Darshan" },
     { "src": "/assets/images/mahalasa2.jpg", "title": "Mahalasa - Temple Frame" },
